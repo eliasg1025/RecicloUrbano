@@ -13,8 +13,7 @@
 
 
 -- Dumping database structure for reciclaurbano
-CREATE DATABASE IF NOT EXISTS `reciclaurbano` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci */;
-USE `reciclaurbano`;
+
 
 -- Dumping structure for table reciclaurbano.conductor
 CREATE TABLE IF NOT EXISTS `conductor` (
